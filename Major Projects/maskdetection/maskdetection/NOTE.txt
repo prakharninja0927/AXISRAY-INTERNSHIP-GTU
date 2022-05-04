@@ -1,0 +1,1 @@
+First go to model folder and unzip the zip file it will give model.pth file 
