@@ -1,0 +1,3 @@
+Download yolov4.weights from below link and put it in dnn_model folder name should be yolov4.weights.
+
+https://drive.google.com/drive/folders/1Dchs5eAZ2Nm6zdyoGGHbY2t-kKfeWNPy?usp=sharing
